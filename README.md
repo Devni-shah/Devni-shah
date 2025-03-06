@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Devni Biren Shah  
-### Business Analyst | Data Analytics Enthusiast | Process Optimization Expert
-
+### Business Analyst | Data Analytics Enthusiast | Financial Analyst
 ## 🚀 About Me  
 I'm a results-driven business analyst currently pursuing a Master's in Business Analytics at the University of Maryland. I specialize in transforming complex data into actionable insights using Python, SQL, Tableau, and R. With a solid background in finance and process optimization, I excel at streamlining operations, enhancing forecasting accuracy, and driving strategic decision-making.
 
